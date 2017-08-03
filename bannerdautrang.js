@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bdsxanh-phuckhang.com/' target='_blank'><img src='https://1.bp.blogspot.com/-psho7lHMFFI/WYMffGD8BPI/AAAAAAAAA9c/bfEEtHVdBRgLjccc8lP9u60TYqoW2vFYgCLcBGAs/s640/canhoxanh.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bdsxanh-phuckhang.com/' target='_blank'><img src='https://1.bp.blogspot.com/-psho7lHMFFI/WYMffGD8BPI/AAAAAAAAA9c/bfEEtHVdBRgLjccc8lP9u60TYqoW2vFYgCLcBGAs/s640/canhoxanh.jpg' width='500px'/><br/>Căn hộ xanh lần đầu tiên xuất hiện tại Việt Nam</a>.  Hotline 0906 927 999. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
